@@ -1,1 +1,1 @@
-## Liste simplement chaînées génériques
+## Liste simplement chaînée générique
